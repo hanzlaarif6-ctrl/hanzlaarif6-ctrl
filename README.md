@@ -6,7 +6,7 @@ En la carrera he implementado desde cero estructuras de datos genéricas en Java
 
 ### Proyectos destacados
 
-- **[api-gestion-incidencias](https://github.com/hanzlaarif6-ctrl/api-gestion-incidencias)**: API REST de gestión de incidencias (tickets), al estilo del soporte técnico de una administración pública. Spring Boot, Spring Data JPA, PostgreSQL, autenticación JWT con roles, tests con JUnit 5 y Mockito, OpenAPI y Docker Compose.
+- **[api-gestion-incidencias](https://github.com/hanzlaarif6-ctrl/api-gestion-incidencias)**: API REST de gestión de incidencias (tickets), al estilo del soporte técnico de una administración pública. Spring Boot, Spring Data JPA, PostgreSQL y Oracle, autenticación JWT con roles, tests con JUnit 5, Mockito y Testcontainers, OpenAPI y Docker Compose.
 - **[proyectos-universidad](https://github.com/hanzlaarif6-ctrl/proyectos-universidad)**: portafolio con las prácticas de la carrera (estructuras de datos en Java, aplicación Swing, programación concurrente en C y desarrollo para Nintendo DS en ensamblador ARM).
 
 ### Tecnologías
@@ -15,8 +15,8 @@ En la carrera he implementado desde cero estructuras de datos genéricas en Java
 |---|---|
 | Lenguajes | Java, SQL, C, ensamblador ARM |
 | Backend | Spring Boot, Spring Data JPA / Hibernate, Spring Security, REST |
-| Bases de datos | PostgreSQL, MySQL |
-| Testing | JUnit 5, Mockito |
+| Bases de datos | PostgreSQL, Oracle, MySQL |
+| Testing | JUnit 5, Mockito, Testcontainers |
 | Build y herramientas | Maven, Gradle, Git, Docker, Linux, Make |
 
 ### Idiomas
